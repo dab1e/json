@@ -1,0 +1,46 @@
+{
+	"datajson":[
+		{
+		"MaDanhMuc":1,
+		"TenDanhMuc":"Mặt hàng điện tử",
+		"SanPhams":[
+			{
+			"MaSanPham":1,
+			"TenSanPham":"Bóng đèn điện Quang",
+			"DonGia":150.0},
+			{
+			"MaSanPham":2,	
+			"TenSanPham":"Ắc quy Đồng Nai",
+			"DonGia":250.0},
+			{
+			"MaSanPham":3,
+			"TenSanPham":"Máy phát điện ABC",	
+			"DonGia":90.0}]},
+		{	
+		"MaDanhMuc":2,
+		"TenDanhMuc":"Mặt hàng tiêu dùng",
+		"SanPhams":[
+			{
+			"MaSanPham":4,
+			"TenSanPham":"Xà Bông Lifeboy",
+			"DonGia":15.0},
+			{
+			"MaSanPham":5,
+			"TenSanPham":"Nước rửa chén Sunlight",
+			"DonGia":12.0}]},
+		{
+		"MaDanhMuc":3,
+		"TenDanhMuc":"Mặt hàng Hóa Chất",
+		"SanPhams":[
+			{
+			"MaSanPham":6,	
+			"TenSanPham":"Thuốc Diệt Muỗi XYZ",
+			"DonGia":80.0},
+			{
+			"MaSanPham":7,
+			"TenSanPham":"Thuốc Diệt Chuỗi ABC",
+			"DonGia":70.0}
+	]}
+	]
+}
+	
