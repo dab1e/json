@@ -1,10 +1,11 @@
 {
-  "userr":[{
-    "user" : "Em",
+  "userr":[
+    {
+      "user" : "Em",
       "age" : 21,
       "firstname" : "Chào ",
       "lastname" : "K "
-  }  
+    }  
   ],
   "city" :[
     {
