@@ -1,0 +1,121 @@
+{
+  "city" :[
+    {
+      "city" : "thaibinh",
+      "bienso": 17
+    },
+    {
+      "city" : "hanoi",
+      "bienso": 29
+    },
+    {
+      "city" : "quangninh",
+      "bienso": 14
+    },
+    {
+      "city" : "haiphong",
+      "bienso": 15
+    }
+  ],
+  "TV":[
+    {
+      "TV":"Panasonic",
+      "kho": 1,
+      "soluong" : 20
+    },
+    {
+      "TV":"Samsung",
+      "kho": 1,
+      "soluong" : 21
+    },
+    {
+      "TV":"Sony",
+      "kho": 2,
+      "soluong" : 22
+    },
+    {
+      "TV":"TCL",
+      "kho": 3,
+      "soluong" : 22
+    },
+    {
+      "TV":"Sharp",
+      "kho": 1,
+      "soluong" : 14
+    },
+    {
+      "TV":"LG",
+      "kho": 2,
+      "soluong" : 22
+    },
+    {
+      "TV":"Toshiba",
+      "kho": 2,
+      "soluong" : 22
+    },
+    {
+      "TV":"Sanyo",
+      "kho": 2,
+      "soluong" : 22
+    }
+     
+  ],
+
+  "user" : [
+    {
+      "user" : "datnguyen",
+      "age" : 21,
+      "firstname" : "dat",
+      "lastname" : "nguyen"
+    },
+    {
+      "user" : "huyen",
+      "age" : 21,
+      "firstname" : "huyen",
+      "lastname" : "nguyen"
+    },
+    {
+      "user" : "Dabie",
+      "age" : 23,
+      "firstname" : "Dagga",
+      "lastname" : "Faga"
+    },
+    {
+      "user" : "Em",
+      "age" : 21,
+      "firstname" : "Chào ",
+      "lastname" : "K "
+    },
+    {
+      "user" : "Gsgshsh",
+      "age" : 14,
+      "firstname" : "53 5335",
+      "lastname" : "Hshs"
+    },
+    {
+      "user" : "Thế",
+      "age" : 13,
+      "firstname" : "Thế ",
+      "lastname" : "K "
+    },
+    {
+      "user" : "abhays",
+      "age" : 21,
+      "firstname" : "Abhay",
+      "lastname" : "Singh"
+    },
+    {
+      "user" : "dat",
+      "age" : 21,
+      "firstname" : "dat",
+      "lastname" : "nguyen"
+    },
+    {
+      "user" : "user",
+      "age" : 23,
+      "firstname" : "Dat",
+      "lastname" : "Nghj"
+    }
+  ]
+}
+
